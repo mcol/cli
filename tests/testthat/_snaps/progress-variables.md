@@ -117,14 +117,14 @@
     Code
       cli__pb_elapsed()
     Output
-      [1] "1h 4m 13.2s"
+      [1] "1h 4m 13s"
 
 ---
 
     Code
       cli__pb_elapsed()
     Output
-      [1] "1h 4m 18.6s"
+      [1] "1h 4m 19s"
 
 ---
 
